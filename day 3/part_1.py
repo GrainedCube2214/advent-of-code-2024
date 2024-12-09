@@ -1,4 +1,4 @@
-file = open('D:/(arguably) projects/advent-of-code/day 3/input.txt','r')
+file = open('day 3/input.txt','r')
 lines = file.readlines()
 file.close()
 

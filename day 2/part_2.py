@@ -1,4 +1,4 @@
-file = open('D:/(arguably) projects/advent-of-code/day 2/input.txt', 'r')
+file = open('day 2/input.txt', 'r')
 lines = file.readlines()
 file.close()
 lines = [[int(num) for num in line.split()] for line in lines]
